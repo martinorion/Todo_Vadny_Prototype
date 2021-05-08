@@ -4,7 +4,7 @@ using System.Text;
 using Todo.Models;
 using Xamarin.Forms;
 
-namespace Todo.Views
+namespace Todo
 {
     class TodoItemPageCS : ContentPage
     { 
